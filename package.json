@@ -1,0 +1,16 @@
+{
+  "name": "graphics",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/three": "^0.131.1",
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "three": "^0.132.2"
+  }
+}
